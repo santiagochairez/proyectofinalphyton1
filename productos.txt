@@ -1,0 +1,4 @@
+1|Pantalon Mezclilla|200|Ropa
+2|Camisa Blanca|150|Ropa
+3|Reloj|300|Accesorios
+1|camisa|67|ropa
